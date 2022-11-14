@@ -1,6 +1,5 @@
 const etanol = 4.89
 const gasolina = 5.64
-let combustivel = ;
 let distviagem = 364;
 const kmlitro = 12;
 if (combustivel == etanol) {
