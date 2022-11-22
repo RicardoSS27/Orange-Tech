@@ -9,7 +9,7 @@ notas.push(8);
 
 const soma = notas[1] + notas[2] + notas[3] + notas[4];
 
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
+for (let i = 0; i < 10; i++) {
+    const element = array[i];
     
 }
